@@ -11,16 +11,19 @@ Storing data in a database: The collected information is stored systematically i
 Website Operations:
 
 CRUD Operations on the website: CRUD stands for Create, Read, Update, and Delete. This indicates that users can perform these fundamental operations on the data stored in the system through a web interface.
+
 Backend Technologies:
 
 JDBC (Java Database Connectivity):
 
 Used for connecting the Java application to a SQL database.
 This connection facilitates the transfer of data between the Java application and the database.
+
 Servlets:
 
 Used for fetching data from users or displaying data to them.
 Servlets are server-side components that handle HTTP requests, making it possible to manage interactions between the frontend (user interface) and the backend (server and database).
+
 Frontend Technologies:
 
 HTML and Bootstrap:

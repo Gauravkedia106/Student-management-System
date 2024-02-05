@@ -7,6 +7,7 @@ Functionality:
 The system is capable of:
 Collecting data from users: This suggests that users, likely administrators or staff, can input or provide information regarding students.
 Storing data in a database: The collected information is stored systematically in a database, ensuring structured and organized data storage.
+
 Website Operations:
 
 CRUD Operations on the website: CRUD stands for Create, Read, Update, and Delete. This indicates that users can perform these fundamental operations on the data stored in the system through a web interface.
